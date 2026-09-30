@@ -1,6 +1,6 @@
 import os 
 import streamlit as st, langchain
-from python_dotenv import load_dotenv
+from dotenv import load_dotenv
 from langchain_google_genai import ChatGoogleGenerativeAI
 
 load_dotenv()
