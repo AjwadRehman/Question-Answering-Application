@@ -1,0 +1,8 @@
+# For UI
+streamlit
+
+# For using google models
+langchain-google-genai
+
+# for loading envoirnment variables
+load-dotenv
