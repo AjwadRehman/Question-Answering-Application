@@ -2,6 +2,7 @@
 streamlit
 
 # For using google models
+langchain
 langchain-google-genai
 
 # for loading envoirnment variables
