@@ -6,4 +6,4 @@ langchain
 langchain-google-genai
 
 # for loading envoirnment variables
-load-dotenv
+python-dotenv
